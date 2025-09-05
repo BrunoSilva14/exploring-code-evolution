@@ -85,7 +85,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 2. Gráfico selecionado: <img width="858" height="401" alt="image" src="https://github.com/user-attachments/assets/d3737266-2ed5-42e7-af57-1b03c9536b50" />
 
 3. Explicação:
-   O gráfico mostra a evolução dos comandos de controle de fluxo no repositório AutoGPT, revelando como o código foi crescendo e se tornando mais complexo. O destaque é o if, que salta de quase nada em 2023 para mais de mil ocorrências em 2024 e chega a cerca de 1,6 mil em 2025. Esse aumento indica que o projeto foi ganhando camadas de lógica, ramificações e condições para lidar com diferentes cenários. Já os outros comandos — for, try, with, while e match — crescem em menor escala, mas de maneira consistente.
+O gráfico mostra a evolução dos comandos de controle de fluxo no repositório AutoGPT, revelando como o código foi crescendo e se tornando mais complexo. O destaque é o if, que salta de quase nada em 2023 para mais de mil ocorrências em 2024 e chega a cerca de 1,6 mil em 2025. Esse aumento indica que o projeto foi ganhando camadas de lógica, ramificações e condições para lidar com diferentes cenários. Já os outros comandos — for, try, with, while e match — crescem em menor escala, mas de maneira consistente.
 
 Esse padrão se conecta à história do AutoGPT. Em 2023, o repositório nasce como um protótipo experimental, com uso ainda limitado de estruturas de código. No ano seguinte, a equipe organiza o projeto em duas frentes: o “AutoGPT Classic”, mantido de forma limitada, e a “AutoGPT Platform”, que se torna o foco principal. Essa transição traz uma explosão de novos módulos, workflows e integrações, explicando o crescimento expressivo das estruturas condicionais.
 
